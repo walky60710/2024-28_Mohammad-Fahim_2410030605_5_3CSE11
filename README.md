@@ -6,7 +6,7 @@
 **Section:** 3cse11
 
 **Organization:** Blyss
-**Role:** UI/UX Design Intern
+**Role:** UI/UX Design/Development Intern
 **Duration:** 04 June 2026 – 04 September 2026
 **Reporting Manager:** Sanchita verma
 
